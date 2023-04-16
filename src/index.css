@@ -1,0 +1,5 @@
+@import "@mediapipe/control_utils/control_utils.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
