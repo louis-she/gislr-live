@@ -6,16 +6,11 @@ To use your own model, you should change the model path in the source code. (I'm
 
 You can try a live demo with my model (LB 0.7) here: https://chenglu.me/gislr-live
 
-**Requirements**
-
-* nodejs 
-* vite
-
 **Setup and Run the demo**
 
 before you go, please change the model path in `/src/sign-language-recognition.jsx`
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
