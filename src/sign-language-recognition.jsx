@@ -487,12 +487,6 @@ function SignLanguageRecognition() {
       return;
     }
     canvasCtx.current = canvas.current.getContext("2d");
-    console.log(Holistic);
-    console.log(Holistic);
-    console.log(Holistic);
-    console.log(Holistic);
-    console.log(Holistic);
-    console.log(Holistic);
     holistic.current = new Holistic({
       locateFile: (file) => {
         return (
