@@ -3,6 +3,8 @@ lockfileVersion: 5.4
 specifiers:
   '@headlessui/react': ^1.7.13
   '@heroicons/react': ^2.0.17
+  '@mediapipe/control_utils': ^0.6.1675466023
+  '@mediapipe/drawing_utils': ^0.3.1675466124
   '@mediapipe/holistic': ^0.5.1675471629
   '@mediapipe/tasks-vision': 0.1.0-alpha-7
   '@tailwindcss/forms': ^0.5.3
@@ -22,6 +24,8 @@ specifiers:
 dependencies:
   '@headlessui/react': registry.npmmirror.com/@headlessui/react/1.7.13_biqbaboplfbrettd7655fr4n2y
   '@heroicons/react': registry.npmmirror.com/@heroicons/react/2.0.17_react@18.2.0
+  '@mediapipe/control_utils': registry.npmmirror.com/@mediapipe/control_utils/0.6.1675466023
+  '@mediapipe/drawing_utils': registry.npmmirror.com/@mediapipe/drawing_utils/0.3.1675466124
   '@mediapipe/holistic': registry.npmmirror.com/@mediapipe/holistic/0.5.1675471629
   '@mediapipe/tasks-vision': registry.npmmirror.com/@mediapipe/tasks-vision/0.1.0-alpha-7
   '@tailwindcss/forms': registry.npmmirror.com/@tailwindcss/forms/0.5.3_tailwindcss@3.3.1
@@ -640,6 +644,18 @@ packages:
       '@jridgewell/resolve-uri': registry.npmmirror.com/@jridgewell/resolve-uri/3.1.0
       '@jridgewell/sourcemap-codec': registry.npmmirror.com/@jridgewell/sourcemap-codec/1.4.14
     dev: true
+
+  registry.npmmirror.com/@mediapipe/control_utils/0.6.1675466023:
+    resolution: {integrity: sha512-CB+L71vUJJSqvULGsZGfqkEiqywoCB898MiM6qWGrk8t5El0HVmHrQbsh2Gx3/N/V2xlYzoU43Wwr2FEAIFHzg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@mediapipe/control_utils/-/control_utils-0.6.1675466023.tgz}
+    name: '@mediapipe/control_utils'
+    version: 0.6.1675466023
+    dev: false
+
+  registry.npmmirror.com/@mediapipe/drawing_utils/0.3.1675466124:
+    resolution: {integrity: sha512-/IWIB/iYRMtiUKe3k7yGqvwseWHCOqzVpRDfMgZ6gv9z7EEimg6iZbRluoPbcNKHbYSxN5yOvYTzUYb8KVf22Q==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@mediapipe/drawing_utils/-/drawing_utils-0.3.1675466124.tgz}
+    name: '@mediapipe/drawing_utils'
+    version: 0.3.1675466124
+    dev: false
 
   registry.npmmirror.com/@mediapipe/holistic/0.5.1675471629:
     resolution: {integrity: sha512-qY+cxtDeSOvVtevrLgnodiwXYaAtPi7dHZtNv/bUCGEjFicAOYtMmrZSqMmbPkTB2+4jLnPF1vgshkAqQRSYAw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@mediapipe/holistic/-/holistic-0.5.1675471629.tgz}

@@ -11,6 +11,8 @@
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@heroicons/react": "^2.0.17",
+    "@mediapipe/control_utils": "^0.6.1675466023",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
     "@mediapipe/holistic": "^0.5.1675471629",
     "@mediapipe/tasks-vision": "0.1.0-alpha-7",
     "@tailwindcss/forms": "^0.5.3",
